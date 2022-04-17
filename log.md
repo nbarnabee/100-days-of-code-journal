@@ -12,9 +12,9 @@
 
 ### Day 2: April 17, 2022
 
-**Today's Progress:** Wrote and published the Pitch Generator that I'd been thinking about.
+**Today's Progress:** Wrote and published the Pitch Generator that I'd been thinking about.  Did a 6 kyu CodeWars problem and felt very good about it.  (My initial solution was spot on; it just ran into some issues with case sensitivity that I hadn't anticipated but could easily solve.)
 
-**Thoughts:**  The JS portion worked flawlessly (once I remembered to add the script tag to the HTML!).  Styling the page took me some time, but I'm very pleased with how it turned out.  Also, I probably shouldn't laugh at my own jokes so much.
+**Thoughts:**  The JS portion of my Pitch Generator worked flawlessly (once I remembered to add the script tag to the HTML!).  Styling the page took me some time, but I'm very pleased with how it turned out.  Also, I probably shouldn't laugh at my own jokes so much.  I  still need to return to the NASA site and do two more simple API sites.
 
 **Link to work:** [Start-up Pitch Generator](https://nbarnabee.github.io/api_projects/pitch_generator/index.html)
 

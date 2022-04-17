@@ -14,7 +14,7 @@
 
 **Today's Progress:** Wrote and published the Pitch Generator that I'd been thinking about.
 
-**Thoughts:**  Styling the page took me some time, but I'm very pleased with how it turned out.  Also, I probably shouldn't laugh at my own jokes so much.
+**Thoughts:**  The JS portion worked flawlessly (once I remembered to add the script tag to the HTML!).  Styling the page took me some time, but I'm very pleased with how it turned out.  Also, I probably shouldn't laugh at my own jokes so much.
 
 **Link to work:** [Start-up Pitch Generator](https://nbarnabee.github.io/api_projects/pitch_generator/index.html)
 

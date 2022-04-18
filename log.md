@@ -20,10 +20,10 @@
 
 
 
-### Day :
+### Day : April 18, 2022
 
-**Today's Progress:**
+**Today's Progress:** Began work on the Trivia Trainer project.
 
-**Thoughts:**
+**Thoughts:** Creating a mental map of the project was a bit difficult, and I kept going around in circles.  Had to stop myself at one point and start from the beginning, just to see if I could get the basics to work; my inclination, as usual, was to write EVERYTHING and then test.  Was pleased that I managed to stop myself and take it step by step.  Unfortunately, I seem to have kind of coded myself into a corner in terms of actually making the problems answerable.
 
-**Link to work:** 
+**Link to work:** [Trivia Trainer](https://nbarnabee.github.io/api_projects/trivia_trainer/index.html)

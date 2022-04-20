@@ -25,7 +25,7 @@
 **Today's Progress:** Started and finished the JS portion of the Trivia Trainer project.
 
 **Thoughts:** Creating a mental map of the project was a bit difficult, and I kept going around in circles.  Had to stop myself at one point and start from the beginning, just to see if I could get the basics to work; my inclination, as usual, was to write EVERYTHING and then test.  Was pleased that I managed to stop myself and take it step by step.  At one point I felt I had coded myself into a corner in terms of being able to test the answers, but after consulting with my father and taking another look, I came up with a solution.
-In the end, I managed to get it working, although I didn't have time to do any CSS.  Will have to make another pass and style it before I could put it into my portfolio.  It would also be a good candidate for conversion to an OOP approach.
+<br><br>In the end, I managed to get it working, although I didn't have time to do any CSS.  Will have to make another pass and style it before I could put it into my portfolio.  It would also be a good candidate for conversion to an OOP approach.
 
 **Link to work:** [Trivia Trainer](https://nbarnabee.github.io/api_projects/trivia_trainer/index.html)
 

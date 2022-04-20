@@ -20,10 +20,31 @@
 
 
 
-### Day : April 18, 2022
+### Day 3: April 18, 2022
 
-**Today's Progress:** Began work on the Trivia Trainer project.
+**Today's Progress:** Started and finished the JS portion of the Trivia Trainer project.
 
-**Thoughts:** Creating a mental map of the project was a bit difficult, and I kept going around in circles.  Had to stop myself at one point and start from the beginning, just to see if I could get the basics to work; my inclination, as usual, was to write EVERYTHING and then test.  Was pleased that I managed to stop myself and take it step by step.  Unfortunately, I seem to have kind of coded myself into a corner in terms of actually making the problems answerable.
+**Thoughts:** Creating a mental map of the project was a bit difficult, and I kept going around in circles.  Had to stop myself at one point and start from the beginning, just to see if I could get the basics to work; my inclination, as usual, was to write EVERYTHING and then test.  Was pleased that I managed to stop myself and take it step by step.  At one point I felt I had coded myself into a corner in terms of being able to test the answers, but after consulting with my father and taking another look, I came up with a solution.
+In the end, I managed to get it working, although I didn't have time to do any CSS.  Will have to make another pass and style it before I could put it into my portfolio.  It would also be a good candidate for conversion to an OOP approach.
 
 **Link to work:** [Trivia Trainer](https://nbarnabee.github.io/api_projects/trivia_trainer/index.html)
+
+
+
+### Day 4: April 19, 2022
+
+**Today's Progress:** Was out of the house for most of the day, but got started on a "Quote of the Day" generator.
+
+**Thoughts:** I spent way too long trying to solve a CORS error without knowing what it was.  If I'd bothered to do a tiny bit of research, I would have learned that it wasn't my fault and that there was nothing I could have done about it.  As usual, I am my own worst enemy.
+
+**Link to work:** [Quote of the Day](https://nbarnabee.github.io/api_projects/quote_of_the_day/index.html)
+
+
+
+### Day 5: April 20, 2022
+
+**Today's Progress:** Finished the "Quote of the Day" page.
+
+**Thoughts:** I kept changing my mind about what I actually wanted the page to do, and that caused me to spend a long time going around in circles.  In the future, I need to come up with a clear plan and stick to it.  I also struggled to work with the results I was getting back from Lorem Picsum.  The end result was that this project took me a lot longer than it should have done, considering how simple it is.
+
+**Link to work:** [Quote of the Day](https://nbarnabee.github.io/api_projects/quote_of_the_day/index.html)

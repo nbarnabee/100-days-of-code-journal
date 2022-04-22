@@ -53,9 +53,9 @@
 
 ### Day 6: April 21, 2022
 
-**Today's Progress:** Stepped away from the API projects and restarted Codecademy's Intro to JS course, as a refresher.  (And as a Pro member, I can now do all of the exercises.)  Also worked on improving my Anki deck.  Quite frankly, it was a depressingly code-light day.
+**Today's Progress:**  Coded along with Class 28, though it was mostly a review of things I'd already done with my own projects; I didn't feel that I really learned anything.  Made a list of improvements I'd like to make to my API projects but didn't do any work on them; instead I restarted Codecademy's Intro to JS course as a refresher and worked on improving my Anki deck.
 
-**Thoughts:** It was good to take a day off, but I shouldn't get in the habit of it.  I'm largely trying to avoid working on my resume and portfolio, and that is a bad habit to get in to.  On the other hand, I *am* technically on vacation right now.
+**Thoughts:** I didn't really do any coding today aside from following along with Leon; the Codecademy stuff is so basic that I can't really count it.  I'm largely trying to avoid working on my resume and portfolio, and that is a bad habit to get in to.  On the other hand, I *am* technically on vacation right now.
 
 
 

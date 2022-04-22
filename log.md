@@ -48,3 +48,19 @@
 **Thoughts:** I kept changing my mind about what I actually wanted the page to do, and that caused me to spend a long time going around in circles.  In the future, I need to come up with a clear plan and stick to it.  I also struggled to work with the results I was getting back from Lorem Picsum.  The end result was that this project took me a lot longer than it should have done, considering how simple it is.
 
 **Link to work:** [Quote of the Day](https://nbarnabee.github.io/api_projects/quote_of_the_day/index.html)
+
+
+
+### Day 6: April 21, 2022
+
+**Today's Progress:** Stepped away from the API projects and restarted Codecademy's Intro to JS course, as a refresher.  (And as a Pro member, I can now do all of the exercises.)  Also worked on improving my Anki deck.  Quite frankly, it was a depressingly code-light day.
+
+**Thoughts:** It was good to take a day off, but I shouldn't get in the habit of it.  I'm largely trying to avoid working on my resume and portfolio, and that is a bad habit to get in to.  On the other hand, I *am* technically on vacation right now.
+
+
+
+### Day 7: April 22, 2022
+
+**Today's Progress:** Continued to work through the Codecademy course.
+
+**Thoughts:** I flew through the JS course before and now I'm doing it even more quickly.  If I want more JS practice, it would be a good idea to start freecodecamp's JS unit and complete the fundamentals track of TOP.  In short, there's plenty of practice material out there.

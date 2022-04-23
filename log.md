@@ -64,3 +64,13 @@
 **Today's Progress:** Continued to work through the Codecademy JS course, did several Codewars problems, and added many more cards to my Anki deck.
 
 **Thoughts:** I flew through the JS course before and now I'm doing it even more quickly.  If I want more JS practice, it would be a good idea to start freecodecamp's JS unit and complete the fundamentals track of TOP.  In short, there's plenty of practice material out there.
+
+
+
+### Day 8: April 23, 2022
+
+**Today's Progress:** Added functions to the NASA Image of the Day site to allow users to add and remove favorites.
+
+**Thoughts:**  Very happy with how this went.  As usual, I stumbled on a few typo-induced errors, but there was nothing wrong with the reasoning behind my approach.
+
+**Link to work:** [NASA Image of the Day](https://nbarnabee.github.io/api_projects/nasa/index.html)

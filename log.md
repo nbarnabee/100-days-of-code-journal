@@ -71,6 +71,6 @@
 
 **Today's Progress:** Added functions to the NASA Image of the Day site to allow users to add and remove favorites.
 
-**Thoughts:**  Very happy with how this went.  As usual, I stumbled on a few typo-induced errors, but there was nothing wrong with the reasoning behind my approach.
+**Thoughts:**  Very happy with how this went.  As usual, I stumbled on a few typo-induced errors, but there was nothing wrong with the reasoning behind my approach.  It would do me good to learn more about Sets, Dates, and the HTMLInputElement interface.
 
 **Link to work:** [NASA Image of the Day](https://nbarnabee.github.io/api_projects/nasa/index.html)

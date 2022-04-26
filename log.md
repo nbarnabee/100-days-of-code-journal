@@ -82,3 +82,11 @@
 **Today's Progress:** Worked through another section of Codeacdemy's Intro to JS course (again, amazing how much faster it's going this time; I really have made progress!) and did the Intro to UI/UX course.
 
 **Thoughts:** Knowing all of this jargon would have been helpful when I was doing the hackathon project!  A lot of it still feels like bullshit, but there are some useful bits of information to be gleaned from the design methodologies; if nothing else, it's given me something to think about when I consider what sort of features I want to include in a project.  And it has definitely given me a better handle on how to approach the visual design stage of a project, rather than just leaping into the CSS and imagining that it will all magically work out with enough tweaking.
+
+
+
+### Day 10: April 25, 2022
+
+**Today's Progress:** Quickly wrote some CSS to solve a problem my father was having, talked him through it, wrote some more.  A low-code day.
+
+**Thoughts:** Although I didn't do a lot, it felt good to help my father out (and even better to have known something that he didn't know).  I should take more time in my day to share knowledge.  It feels good and it's good for me.

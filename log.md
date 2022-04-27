@@ -90,3 +90,11 @@
 **Today's Progress:** Quickly wrote some CSS to solve a problem my father was having, talked him through it, wrote some more.  A low-code day.
 
 **Thoughts:** Although I didn't do a lot, it felt good to help my father out (and even better to have known something that he didn't know).  I should take more time in my day to share knowledge.  It feels good and it's good for me.
+
+
+
+### Day 11: April 26, 2022
+
+**Today's Progress:** Less progress than I would have liked.  Did some Codewars and a little more of the Codecademy JS course, but the day was mostly taken up by the family.
+
+**Thoughts:** As much as I know I shouldn't begrudge my kids and parents for the time I spend with them, it's hard not to feel frustrated when I finish a day and feel that I haven't really gone forward.  And as the next several days are going to be busy, I doubt I'll be getting a lot done until the weekend.  Oh well.

@@ -98,3 +98,11 @@
 **Today's Progress:** Less progress than I would have liked.  Did some Codewars and a little more of the Codecademy JS course, but the day was mostly taken up by the family.
 
 **Thoughts:** As much as I know I shouldn't begrudge my kids and parents for the time I spend with them, it's hard not to feel frustrated when I finish a day and feel that I haven't really gone forward.  And as the next several days are going to be busy, I doubt I'll be getting a lot done until the weekend.  Oh well.
+
+
+
+### Day 12: April 27, 2022
+
+**Today's Progress:** Did quite a number of Codewars kata and worked through two more of the Codecademy JavaScript lessons.
+
+**Thoughts:** I think I need to stop doing the 8 kyu katas; they are simply too easy now.  On the other hand, I still make a number of careless syntactical errors, so perhaps I shouldn't be so quick to move on -- part of my problem is impatience and complacency.  Similarly, the JS review is feeling very basic.  I'm pleased with how easy it is now, and frustrated that the exercises force me to do things in a simpler fashion.  I don't expect to get much of anything done tomorrow or the day after, since we'll be travelling.  I feel like I've been treading water these past few days, but on the other hand there's not a lot that I can do about it.  We'll be home Saturday and I can get properly back to work.

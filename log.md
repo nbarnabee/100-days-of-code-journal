@@ -106,3 +106,20 @@
 **Today's Progress:** Did quite a number of Codewars kata and worked through two more of the Codecademy JavaScript lessons.
 
 **Thoughts:** I think I need to stop doing the 8 kyu katas; they are simply too easy now.  On the other hand, I still make a number of careless syntactical errors, so perhaps I shouldn't be so quick to move on -- part of my problem is impatience and complacency.  Similarly, the JS review is feeling very basic.  I'm pleased with how easy it is now, and frustrated that the exercises force me to do things in a simpler fashion.  I don't expect to get much of anything done tomorrow or the day after, since we'll be travelling.  I feel like I've been treading water these past few days, but on the other hand there's not a lot that I can do about it.  We'll be home Saturday and I can get properly back to work.
+
+
+
+### Day 13: May 1, 2022
+
+**Today's Progress:** Finished last Tuesday's 100Devs class.  More Codecademy and Codewars. 
+
+**Thoughts:**  I went over the top with answering some basic questions, wrote classes and such to make a Pokèmon constructor, and was duly proud of myself.  Otherwise, I didn't get as much done as I had hoped, due to mental fatigue.
+
+
+
+### Day 14: May 2, 2022
+
+**Today's Progress:**  The usual Codewars and Codecademy work, plus the chapter on OOP from *The JS Way*.  Tried to catch up with *Eloquent Javascript*.  
+
+**Thoughts:**  My brain was still tired and fuzzy and once again I didn't do as much as I would have liked.  But I was pleased to have sailed through the *JS Way* problems; it seemed very straightforward.  Unfortunately, I got hung up for the second time on the linked list question in chapter 4 of *Eloquent Javascript*.  Eventually gave up and looked at the solution, and I can safely say that I would not have come up with it on my own.  Have gathered more material to read about linked lists.  I also shouldn't let myself grind to a halt because I can't answer a question.
+

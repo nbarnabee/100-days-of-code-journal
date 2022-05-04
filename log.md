@@ -123,3 +123,10 @@
 
 **Thoughts:**  My brain was still tired and fuzzy and once again I didn't do as much as I would have liked.  But I was pleased to have sailed through the *JS Way* problems; it seemed very straightforward.  Unfortunately, I got hung up for the second time on the linked list question in chapter 4 of *Eloquent Javascript*.  Eventually gave up and looked at the solution, and I can safely say that I would not have come up with it on my own.  Have gathered more material to read about linked lists.  I also shouldn't let myself grind to a halt because I can't answer a question.
 
+
+
+### Day 15: May 4, 2022
+
+**Today's Progress:** Came back from a 1-day sanity break feeling energized and ready to code.  Finished last Thursday's 100Devs class and wrote a tic-tac-toe game.  Also finished the Codecademy Intro to JS course.
+
+**Thoughts:** Am very glad that I took yesterday off.  Felt much better today.  Was very proud of my game.  However, I did not really meet the requirements of the exercise, as it's not been written in the OOP style.  So I'll need to rewrite it either today or tomorrow.

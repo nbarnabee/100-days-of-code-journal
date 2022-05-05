@@ -127,6 +127,6 @@
 
 ### Day 15: May 4, 2022
 
-**Today's Progress:** Came back from a 1-day sanity break feeling energized and ready to code.  Finished last Thursday's 100Devs class and wrote a tic-tac-toe game.  Also finished the Codecademy Intro to JS course.
+**Today's Progress:** Came back from a 1-day sanity break feeling energized and ready to code.  Finished last Thursday's 100Devs class and wrote a tic-tac-toe game, then refactored the code to get it somewhat in line with the OOP paradigm.
 
-**Thoughts:** Am very glad that I took yesterday off.  Felt much better today.  Was very proud of my game.  However, I did not really meet the requirements of the exercise, as it's not been written in the OOP style.  So I'll need to rewrite it either today or tomorrow.
+**Thoughts:** Am very glad that I took yesterday off.  Felt much better today.  Was very proud of my game.  However, I was not very satisfied with my OOP rewrite.  I made one object and dropped all of the functions inside it, and came away feeling that I had missed the point.

@@ -146,3 +146,11 @@
 **Today's Progress:** I didn't get much done today.  Continued catching up with the VODs and did a few Codewars problems, continuing with that "beginners" set.  Took many notes.
 
 **Thoughts:** I struggle with motivation when I'm not actively working on a project.  Another European cohort member suggested some of us work together on a Tic-Tac-Toe game, but I couldn't quite figure his code out.  Part of the problem is that I am so in love with the approach I took that it is hard to wrap my head around anything different.
+
+
+
+## Day 18: May 7, 2022
+
+**Today's Progress:** At long last, I genuinely caught up with the VODs.  I read a bit about recursive functions and actually wrote one of my own.  I practiced writing classes and tried to think how they could be applied to my Tic-Tac-Toe game.
+
+**Thoughts:** Motivation continued to be a huge struggle today.  The list of things I need to do keeps building up, and I feel like I'm treading water.  I daydreamed through most of the VODs; we've reached a point again where the slow pace starts to bore and frustrate me.  And yet I struggle to motivate myself to push ahead with, for instance, Eloquent Javascript, or to actually work on my portfolio site or other projects.

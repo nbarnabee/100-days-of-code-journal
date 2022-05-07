@@ -138,3 +138,11 @@
 **Today's Progress:** Finally finished the Codecacdemy Intro to JS and got part of the way through Tuesday's VOD.  But most of my energy was focused on getting my Tic-Tac-Toe computer opponent up to speed.  I took a brute-force approach to the logic, but it did work.
 
 **Thoughts:** I'm very pleased with what I got done today.  I know a Tic-Tac-Toe game is not exactly a portfolio-worthy project, and my code is pretty ugly, but I got it to do what I wanted.  I took a look at some of Codecademy's "intermediate" JS offerings, and they seem to be going over the same things that we have done/are shortly going to do in #100Devs.  It might make for a worthy review.  However, I should probably concentrate more on my own projects.
+
+
+
+### Day 17: May 6, 2022
+
+**Today's Progress:** I didn't get much done today.  Continued catching up with the VODs and did a few Codewars problems, continuing with that "beginners" set.  Took many notes.
+
+**Thoughts:** I struggle with motivation when I'm not actively working on a project.  Another European cohort member suggested some of us work together on a Tic-Tac-Toe game, but I couldn't quite figure his code out.  Part of the problem is that I am so in love with the approach I took that it is hard to wrap my head around anything different.

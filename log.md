@@ -149,8 +149,8 @@
 
 
 
-## Day 18: May 7, 2022
+### Day 18: May 7, 2022
 
 **Today's Progress:** At long last, I genuinely caught up with the VODs.  I read a bit about recursive functions and actually wrote one of my own.  I practiced writing classes and tried to think how they could be applied to my Tic-Tac-Toe game.
 
-**Thoughts:** Motivation continued to be a huge struggle today.  The list of things I need to do keeps building up, and I feel like I'm treading water.  I daydreamed through most of the VODs; we've reached a point again where the slow pace starts to bore and frustrate me.  And yet I struggle to motivate myself to push ahead with, for instance, Eloquent Javascript, or to actually work on my portfolio site or other projects.
+**Thoughts:** Motivation continued to be a huge struggle today.  The list of things I need to do keeps building up, and I feel like I'm treading water.  I daydreamed through most of the VODs; we've reached a point again where the slow pace starts to bore and frustrate me.  And yet I struggle to motivate myself to push ahead with, for instance, *Eloquent Javascript*, or to actually work on my portfolio site or other projects.

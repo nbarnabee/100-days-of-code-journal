@@ -153,6 +153,14 @@
 
 **Today's Progress:** At long last, I genuinely caught up with the VODs.  I read a bit about recursive functions and explored the concept by writing a few of my own.  I practiced writing classes and tried to think how they could be applied to my Tic-Tac-Toe game.
 
-**Thoughts:** Motivation continued to be a huge struggle today.  The list of things I need to do keeps building up, and I feel like I'm treading water.  I daydreamed through most of the VODs; we've reached a point again where the slow pace starts to bore and frustrate me.  And yet I struggle to motivate myself to push ahead with, for instance, *Eloquent Javascript*, or to actually work on my portfolio site or other projects.  
+**Thoughts:** Motivation continued to be a huge struggle today.  The list of things I need to do keeps building up, and I feel like I'm treading water.  I daydreamed through most of the VODs; we've reached a point again where the slow pace starts to bore and frustrate me.  And yet I struggle to motivate myself to push ahead with, for instance, *Eloquent JavaScript*, or to actually work on my portfolio site or other projects.  
 
 I did manage a tricky Codewars kata in the first go, having actually taken the time to plan it out on paper.  And I wrote a recursive function to solve an early problem in *Eloquent Javascript*, though the learning process involved creating a couple of infinite loops.  But I learned that returning something like `i++` into a recursive function is a bad idea.  It should always be `++i` or just `i+1`
+
+
+
+## Day 19: May 9, 2022
+
+**Today's Progress:** Read a bit more *Eloquent JavaScript*, finished up the CSS Grid section of FreeCodeCamp's Responsive Web Design course, did the first project exercise, and sketched out some vague ideas for the Schwert & Feder overhaul.
+
+**Thoughts:** Taking a closer look at Grid took me down a CSS rabbit hole.  I feel like I did not learn a great deal today, but at least I moved forward a few steps.  I was not happy with my initial redesign of the S&F site, but I think I have some useable ideas.

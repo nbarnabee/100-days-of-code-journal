@@ -159,7 +159,7 @@ I did manage a tricky Codewars kata in the first go, having actually taken the t
 
 
 
-## Day 19: May 9, 2022
+### Day 19: May 9, 2022
 
 **Today's Progress:** Read a bit more *Eloquent JavaScript*, finished up the CSS Grid section of FreeCodeCamp's Responsive Web Design course, did the first project exercise, and sketched out some vague ideas for the Schwert & Feder overhaul.
 

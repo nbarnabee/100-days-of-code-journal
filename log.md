@@ -164,3 +164,19 @@ I did manage a tricky Codewars kata in the first go, having actually taken the t
 **Today's Progress:** Read a bit more *Eloquent JavaScript*, finished up the CSS Grid section of FreeCodeCamp's Responsive Web Design course, did the first project exercise, and sketched out some vague ideas for the Schwert & Feder overhaul.
 
 **Thoughts:** Taking a closer look at Grid took me down a CSS rabbit hole.  I feel like I did not learn a great deal today, but at least I moved forward a few steps.  I was not happy with my initial redesign of the S&F site, but I think I have some useable ideas.
+
+
+
+### Day 20: May 10, 2022
+
+**Today's Progress:** Made my first-ever pull request to an open source project (albeit one set up deliberately to enable new programmers to practice this), then got more practice in with the git workflow while setting up a group project with some other 100Devs.  Reviewed OOP basics, participated in the writing of some very modest code, did a 6 kyu CodeWars problem, and began rewriting my Cocktail Finder project.
+
+**Thoughts:** Even though my hand was held all the way through the pull request process, it was surprisingly nerve-wracking.  I enjoyed working with the other devs, even if we didn't build much of anything; I was able to offer some advice and corrections and it made me feel almost as though I knew what I was doing.  Then in the evening I had a remote work session with the Girls Code group, where I got to chat a bit and work on the Cocktail Finder.  It took me longer than I anticipated to get going, and just as the evening was wrapping up I had a breakthrough in my thinking.  Looking forward to continuing the work tomorrow.
+
+
+
+### Day 21: May 11, 2020
+
+**Today's Progress:**  Made more headway with the Cocktail Finder project.  The rest of the day's work was centered around watching the last class VOD, which was about networking and the job hunt, and working on my personal story and my LinkedIn page.
+
+**Thoughts:** I'm pleased with how the Cocktail Finder is shaping up, though as usual there's a lot of trial and error and it seems to take me ten times as long as it should.  CSS Grid does not seem to be playing nicely with what I'm trying to do, and I have no idea why that would be.  Even though it was not coding related, I was happy to have finally written my personal story (though I'm sure I will refine it later) and to have added at least that much more to my LinkedIn profile.

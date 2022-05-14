@@ -175,7 +175,7 @@ I did manage a tricky Codewars kata in the first go, having actually taken the t
 
 
 
-### Day 21: May 11, 2020
+### Day 21: May 11, 2022
 
 **Today's Progress:**  Made more headway with the Cocktail Finder project.  The rest of the day's work was centered around watching the last class VOD, which was about networking and the job hunt, and working on my personal story and my LinkedIn page.
 
@@ -183,8 +183,16 @@ I did manage a tricky Codewars kata in the first go, having actually taken the t
 
 
 
-### Day 22: May 13, 2020
+### Day 22: May 13, 2022
 
 **Today's Progress:** Did a lot of reading about promises, event handling, and asynchronous functions.  Spent too long trying to work out how to make a method call work with new objects, and eventually stumbled on the .bind() method, which solved the problem.  Also went further with Codecademy's intermediate JS course.
 
 **Thoughts:** Not sure how much of the async information I've retained, aside from the basic idea.  The MDN documentation was somewhat unclear.  Codecademy's course is probably a waste of time for the most part (or, rather, I spent time on it that would have been more usefully spent elsewhere); I was mostly reviewing concepts I already knew, though I did learn a few new things, such as .getElementsByClass and .getElementsByName.  Balancing the things that I want to/need to/should do is an ongoing problem that I'm still not sure how to solve.
+
+
+
+### Day 23: May 14, 2022
+
+**Today's Progress:** Continued reading about promises.  Fiddled with small code snippets as I tried to figure out setTimeout and setInterval, reduce() and various other things.  Completed a couple of CodeWars problems, but otherwise did not do any concrete work.
+
+**Thoughts:** I'd like to think that I learned something from playing around today, but I'm sure I haven't.  I've already forgotten how I solved the setInterval countdown problem I set myself.  Have not been getting nearly enough sleep lately.

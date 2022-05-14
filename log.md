@@ -180,3 +180,11 @@ I did manage a tricky Codewars kata in the first go, having actually taken the t
 **Today's Progress:**  Made more headway with the Cocktail Finder project.  The rest of the day's work was centered around watching the last class VOD, which was about networking and the job hunt, and working on my personal story and my LinkedIn page.
 
 **Thoughts:** I'm pleased with how the Cocktail Finder is shaping up, though as usual there's a lot of trial and error and it seems to take me ten times as long as it should.  CSS Grid does not seem to be playing nicely with what I'm trying to do, and I have no idea why that would be.  Even though it was not coding related, I was happy to have finally written my personal story (though I'm sure I will refine it later) and to have added at least that much more to my LinkedIn profile.
+
+
+
+### Day 22: May 13, 2020
+
+**Today's Progress:** Did a lot of reading about promises, event handling, and asynchronous functions.  Spent too long trying to work out how to make a method call work with new objects, and eventually stumbled on the .bind() method, which solved the problem.  Also went further with Codecademy's intermediate JS course.
+
+**Thoughts:** Not sure how much of the async information I've retained, aside from the basic idea.  The MDN documentation was somewhat unclear.  Codecademy's course is probably a waste of time for the most part (or, rather, I spent time on it that would have been more usefully spent elsewhere); I was mostly reviewing concepts I already knew, though I did learn a few new things, such as .getElementsByClass and .getElementsByName.  Balancing the things that I want to/need to/should do is an ongoing problem that I'm still not sure how to solve.

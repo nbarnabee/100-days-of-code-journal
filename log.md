@@ -196,3 +196,11 @@ I did manage a tricky Codewars kata in the first go, having actually taken the t
 **Today's Progress:** Continued reading about promises.  Fiddled with small code snippets as I tried to figure out setTimeout and setInterval, reduce() and various other things.  Completed a couple of CodeWars problems, but otherwise did not do any concrete work.
 
 **Thoughts:** I'd like to think that I learned something from playing around today, but I'm sure I haven't.  I've already forgotten how I solved the setInterval countdown problem I set myself.  Have not been getting nearly enough sleep lately.
+
+
+
+### Day 24: May 15, 2022
+
+**Today's Progress:** Caught up with the VODs, though since the class was mostly about interview prep, I'm not sure I'd call it "coding."  Finished setting up WSL, caught up on my Anki, which I'd been neglecting, and did a lot of Codewars, including my first 5 kyu.
+
+**Thoughts:** It was quite a confidence boost to go back to easy 8's on Codewars and just knock them out of the park, one by one.  The 5 kyu problem was also easy (though I did deliberately pick the "most solved" one), and my solution was not any worse than the top solutions -- and if we're considering scalability and Big O-type matters, mine was probably better.

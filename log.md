@@ -204,3 +204,11 @@ I did manage a tricky Codewars kata in the first go, having actually taken the t
 **Today's Progress:** Caught up with the VODs, though since the class was mostly about interview prep, I'm not sure I'd call it "coding."  Finished setting up WSL, caught up on my Anki, which I'd been neglecting, and did a lot of Codewars, including my first 5 kyu.
 
 **Thoughts:** It was quite a confidence boost to go back to easy 8's on Codewars and just knock them out of the park, one by one.  The 5 kyu problem was also easy (though I did deliberately pick the "most solved" one), and my solution was not any worse than the top solutions -- and if we're considering scalability and Big O-type matters, mine was probably better.
+
+
+
+### Day 25: May 16, 2022
+
+**Today's Progess:** Had a gratifying Codewars success, relying on that reduce() method that's come up a lot lately.  Checked out a bunch of fonts for the S&F site, watched a video about promises and another about Figma (coded along with the latter, and should probably go back and code along with the former as well).
+
+**Thoughts:** I really need to memorize that method, or at least get the concept solidified in my brain such that I can pull it up from memory (for I did have to consult my notes while solving the Codewars problem).  I think I understand the idea of promises and async/await, but I need to think of a scenario where I can put this into practice.  Feeling more comfortable about Figma and made some sketches that I'll turn into wireframes tomorrow, so that I'll have something to show my client on Thursday.

@@ -212,3 +212,11 @@ I did manage a tricky Codewars kata in the first go, having actually taken the t
 **Today's Progess:** Had a gratifying Codewars success, relying on that reduce() method that's come up a lot lately.  Checked out a bunch of fonts for the S&F site, watched a video about promises and another about Figma (coded along with the latter, and should probably go back and code along with the former as well).
 
 **Thoughts:** I really need to memorize that method, or at least get the concept solidified in my brain such that I can pull it up from memory (for I did have to consult my notes while solving the Codewars problem).  I think I understand the idea of promises and async/await, but I need to think of a scenario where I can put this into practice.  Feeling more comfortable about Figma and made some sketches that I'll turn into wireframes tomorrow, so that I'll have something to show my client on Thursday.
+
+
+
+### Day 26: May 19, 2022
+
+**Today's Progress:** Had taken a couple of days off, more or less - I did a fair amount of wireframing with Figma, but that's not really programming - and today got started with the Node.js crash course.
+
+**Thoughts:** Once again, I made the mistake of getting frustrated with Javascript Info and had to step away for a few days.  This isn't the first time this has happened.

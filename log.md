@@ -220,3 +220,11 @@ I did manage a tricky Codewars kata in the first go, having actually taken the t
 **Today's Progress:** Had taken a couple of days off, more or less - I did a fair amount of wireframing with Figma, but that's not really programming - and today got started with the Node.js crash course.
 
 **Thoughts:** Once again, I made the mistake of getting frustrated with Javascript Info and had to step away for a few days.  This isn't the first time this has happened.
+
+
+
+### Day 27: May 20, 2022
+
+**Today's Progress:** Coded along with Brad Traversy's Node Crash course.  The video itself was an hour and a half, but with stopping, reviewing, and looking other things up, it took me twice that to get through it.  Then I added the principle bits of server related code to my snippets repo
+
+**Thoughts:** By the end of the course I felt pretty comfortable with what I was doing, though as usual I wouldn't be able to write anything from memory.  I would like to get started with yesterday's VOD, but I don't think I have the mental energy for it right now.

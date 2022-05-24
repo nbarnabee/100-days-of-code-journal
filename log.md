@@ -228,3 +228,11 @@ I did manage a tricky Codewars kata in the first go, having actually taken the t
 **Today's Progress:** Coded along with Brad Traversy's Node Crash course.  The video itself was an hour and a half, but with stopping, reviewing, and looking other things up, it took me twice that to get through it.  Then I added the principle bits of server related code to my snippets repo
 
 **Thoughts:** By the end of the course I felt pretty comfortable with what I was doing, though as usual I wouldn't be able to write anything from memory.  I would like to get started with yesterday's VOD, but I don't think I have the mental energy for it right now.
+
+
+
+### Day 28: May 24, 2022
+
+**Today's Progress:** Watched some of mayanwolf's stream, but it moves so slowly that I couldn't stand it.  Fiddled around with the class files while the stream was running and figured out what I was trying to figure out on my own.  Later, wrote a new bunch of code based on my rewrite of the class code and managed to successfully serve myself some data.
+
+**Thoughts:** I was trying to be clever with what I was doing and actually prompted a CORS error on myself!  Rewrote it to be more in line with Leon's code; aka, simple and stupid, but I made it work.  I'm eager to start learning how to compile this information into databases.  I still haven't really figured out error handling.  

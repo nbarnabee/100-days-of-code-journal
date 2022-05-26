@@ -236,3 +236,19 @@ I did manage a tricky Codewars kata in the first go, having actually taken the t
 **Today's Progress:** Watched some of mayanwolf's stream, but it moves so slowly that I couldn't stand it.  Fiddled around with the class files while the stream was running and figured out what I was trying to figure out on my own.  Later, wrote a new bunch of code based on my rewrite of the class code and managed to successfully serve myself some data.
 
 **Thoughts:** I was trying to be clever with what I was doing and actually prompted a CORS error on myself!  Rewrote it to be more in line with Leon's code; aka, simple and stupid, but I made it work.  I'm eager to start learning how to compile this information into databases.  I still haven't really figured out error handling.  
+
+
+
+### Day 29: May 25, 2022
+
+**Today's Progress:** Skipped the VOD and went straight into the homework: namely, [Building a Simple CRUD App](https://zellwk.com/blog/crud-express-mongodb/).  It took me ages to get through and fried my brain, but I did make it to the end.
+
+**Thoughts:** The exercise was equal parts interesting and frustrating.  I had gotten to grips, more or less, with Brad Traversy's approach, and here was something similar and yet totally different.  And so many dependencies!  The one that allows you to write JS in the HTML looked very much like PHP, and not for the first time I wondered if it wouldn't be easier to just mix and match languages, rather than go to these lengths to insert JS into everything.
+
+
+
+### Day 30: May 26, 2022
+
+**Today's Progress:** As usual, feeling far behind on everything.  So rather than do something strictly useful I spent my time working on the S&F website.  Admittedly, it is long overdue.
+
+**Thoughts:** I mucked around with templates for a while, but have concluded that they are just not for me.  It is worth keeping them around and trying to copy the designs, I suppose, but trying to modify them is a massive time sink and ultimately doesn't leave me feeling like I'm learning much.  I could tell that I hadn't used CSS in a while, either, but in the end I was reasonably satisfied with my work.  The site is still far from finished, unfortunately.

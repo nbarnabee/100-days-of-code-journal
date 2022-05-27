@@ -252,3 +252,11 @@ I did manage a tricky Codewars kata in the first go, having actually taken the t
 **Today's Progress:** As usual, feeling far behind on everything.  So rather than do something strictly useful I spent my time working on the S&F website.  Admittedly, it is long overdue.
 
 **Thoughts:** I mucked around with templates for a while, but have concluded that they are just not for me.  It is worth keeping them around and trying to copy the designs, I suppose, but trying to modify them is a massive time sink and ultimately doesn't leave me feeling like I'm learning much.  I could tell that I hadn't used CSS in a while, either, but in the end I was reasonably satisfied with my work.  The site is still far from finished, unfortunately.
+
+
+
+### Day 31: May 27, 2022
+
+**Today's Progress:** I worked a little more on the S&F site, and then turned my attention to my own portfolio.  Bookmarked a number of "code along" portfolio tutorials (it would be good practice to follow them, even if I don't end up using any of them) and settled on following Kevin Powell's.
+
+**Thoughts:** I have had a hell of a time settling on a portfolio design, but I think I have finally found something that I'm happy with.  It's a more attractive design than I could have come up with purely on my own, but I have written it myself, tweaked it, and am quite pleased with how it's shaping up.

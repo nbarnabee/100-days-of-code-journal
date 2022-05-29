@@ -260,3 +260,11 @@ I did manage a tricky Codewars kata in the first go, having actually taken the t
 **Today's Progress:** I worked a little more on the S&F site, and then turned my attention to my own portfolio.  Bookmarked a number of "code along" portfolio tutorials (it would be good practice to follow them, even if I don't end up using any of them) and settled on following Kevin Powell's.
 
 **Thoughts:** I have had a hell of a time settling on a portfolio design, but I think I have finally found something that I'm happy with.  It's a more attractive design than I could have come up with purely on my own, but I have written it myself, tweaked it, and am quite pleased with how it's shaping up.
+
+
+
+### Day 32: May 29, 2022
+
+**Today's Progress:** Technically this should be Day 33, as I worked on my portfolio site for quite some time last night, but I didn't Tweet about it or update this journal, so it doesn't count.  Finished up Kevin's tutorial today and was pleased with the result.  On a less encouraging note, I very briefly tried to engage in some group work with other members of the Europe channel, but quickly bowed out.
+
+**Thoughts:** As always, I learned a lot from Kevin.  I have a few other "code along tutorials" bookmarked, and it would probably be good for me to review them at some point in the future.  But as I'm now two classes behind, it's time to pivot back to Node.  I was completely lost during the group work session, though it didn't help that there was no organization whatsoever.  I should see if Anjum and Rajea would like to continue with the Hangman project; I hope I didn't ride too roughshod over them.

@@ -276,5 +276,3 @@ I did manage a tricky Codewars kata in the first go, having actually taken the t
 **Today's Progress:** I had started last Tuesday's VOD yesterday but hadn't gotten through it.  Finished it up this morning and spent the rest of the day working over the node-backend-simple files.  I had already refactored them once, but did it a second time, spent a lot of time reading the Node.js documentation, and took extensive notes about the process.
 
 **Thoughts:** I spent way too much time on this, but I did come out of it feeling significantly more confident about the process.  And I learned that the Node.js documentation is great.  I am thinking that I will probably turn all of this into a blog post.
-
-**Thoughts:** 

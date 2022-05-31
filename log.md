@@ -268,3 +268,13 @@ I did manage a tricky Codewars kata in the first go, having actually taken the t
 **Today's Progress:** Technically this should be Day 33, as I worked on my portfolio site for quite some time last night, but I didn't Tweet about it or update this journal, so it doesn't count.  Finished up Kevin's tutorial today and was pleased with the result.  On a less encouraging note, I very briefly tried to engage in some group work with other members of the Europe channel, but quickly bowed out.
 
 **Thoughts:** As always, I learned a lot from Kevin.  I have a few other "code along tutorials" bookmarked, and it would probably be good for me to review them at some point in the future.  But as I'm now two classes behind, it's time to pivot back to Node.  I was completely lost during the group work session, though it didn't help that there was no organization whatsoever.  I should see if Anjum and Rajea would like to continue with the Hangman project; I hope I didn't ride too roughshod over them.
+
+
+
+### Day 33: May 31, 2022 
+
+**Today's Progress:** I had started last Tuesday's VOD yesterday but hadn't gotten through it.  Finished it up this morning and spent the rest of the day working over the node-backend-simple files.  I had already refactored them once, but did it a second time, spent a lot of time reading the Node.js documentation, and took extensive notes about the process.
+
+**Thoughts:** I spent way too much time on this, but I did come out of it feeling significantly more confident about the process.  And I learned that the Node.js documentation is great.  I am thinking that I will probably turn all of this into a blog post.
+
+**Thoughts:** 

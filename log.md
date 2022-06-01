@@ -284,3 +284,5 @@ I did manage a tricky Codewars kata in the first go, having actually taken the t
 **Today's Progress:**  Watched last Thursday's VOD, which was mostly a review of the node-backend-simple file, so not a lot new there for me.  Also watched the other video about the event loop.  Did quite a few Codewars while chatting with some other #100Devs, discussed a group project with Kirstie and Lukasz, and coded and deployed a little Magic 8-Ball app, since I didn't feel like doing a coin flip.
 
 **Thoughts:** Although Leon's review of the simple Node.js code made me feel like my exhaustive review had been a bit of a waste of time (I did publish it as a blog post), I really knew what was going on, and was able to knock out the Magic 8-Ball app in record time.  Really, it was tinkering with the CSS that took the longest.
+
+**Link to Work:** [Magic 8-Ball](https://magic-8bl.herokuapp.com/) and [Walk-through Refactoring](https://nbarnabee.hashnode.dev/walk-through-refactoring-node-backend-simple)

@@ -286,3 +286,11 @@ I did manage a tricky Codewars kata in the first go, having actually taken the t
 **Thoughts:** Although Leon's review of the simple Node.js code made me feel like my exhaustive review had been a bit of a waste of time (I did publish it as a blog post), I really knew what was going on, and was able to knock out the Magic 8-Ball app in record time.  Really, it was tinkering with the CSS that took the longest.
 
 **Link to Work:** [Magic 8-Ball](https://magic-8bl.herokuapp.com/) and [Walk-through Refactoring](https://nbarnabee.hashnode.dev/walk-through-refactoring-node-backend-simple)
+
+
+
+### Day 35: June 3, 2022
+
+**Today's Progress:** Watched Tuesday's VOD -- almost caught up now! -- and coded along as he built the first part of the simple Express API.
+
+**Thoughts:** I was too flummoxed by that CRUD tutorial to really appreciate how much easier Express is to work with than vanilla Node.js, but after having done that deep dive with the first backend project the other day, I was amazed by the difference!

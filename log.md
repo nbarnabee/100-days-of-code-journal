@@ -294,3 +294,11 @@ I did manage a tricky Codewars kata in the first go, having actually taken the t
 **Today's Progress:** Watched Tuesday's VOD -- almost caught up now! -- and coded along as he built the first part of the simple Express API.
 
 **Thoughts:** I was too flummoxed by that CRUD tutorial to really appreciate how much easier Express is to work with than vanilla Node.js, but after having done that deep dive with the first backend project the other day, I was amazed by the difference!
+
+
+
+### Day 36: June 4, 2022
+
+**Today's Progress:** Watched Thursday's VOD, which ended up being a big disappointment, as it was just a lengthier recap of Tuesday's class.  At least it meant I was able to get through it quickly.  Rewrote my "character server" to use Express, then mixed it up completely and started to build it out as a proper REST API.
+
+**Thoughts:** I was incredibly pleased at how easy it was to manipulate the query parameters and return the data I wanted.  It did take a little bit of trial and error, and I'm not sure how best to handle multiple parameters, and the project is not at all scalable (it cries out for a proper database, whereas right now it's just a file containing an array of objects), but I got it going without any trouble.  Tomorrow I'll write some documentation and advertise it a bit.  I have no idea if anyone else would actually want to contribute, but we RPG nerds do love talking about our characters, so... 

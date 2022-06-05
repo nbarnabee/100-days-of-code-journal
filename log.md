@@ -304,3 +304,11 @@ I did manage a tricky Codewars kata in the first go, having actually taken the t
 **Thoughts:** I was incredibly pleased at how easy it was to manipulate the query parameters and return the data I wanted.  It did take a little bit of trial and error, and I'm not sure how best to handle multiple parameters, and the project is not at all scalable (it cries out for a proper database, whereas right now it's just a file containing an array of objects), but I got it going without any trouble.  I have no idea if anyone else would actually want to contribute, but we RPG nerds do love talking about our characters, so maybe someone will.  If nothing else, it's good practice.  
 
 Having promised myself I'd get off of the computer, I instead stayed up late working on the github README for the project.
+
+
+
+### Day 37: June 5, 2022
+
+**Today's Progress:** Had another look at the javascript.info chapter on Asynchronous functions, thinking that it might make more sense now that I have more experience, but no, it didn't.  Practiced rewriting the basic fetch request function as async/await, then async with a try/catch.  Did quite a few Codewars problems and coded along with the office hours.
+
+**Thoughts:** This all probably wasn't a very effective use of my time.  I shouldn't beat myself up over it, but I should make a better plan for tomorrow.

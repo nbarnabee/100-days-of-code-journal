@@ -312,3 +312,11 @@ Having promised myself I'd get off of the computer, I instead stayed up late wor
 **Today's Progress:** Had another look at the javascript.info chapter on Asynchronous functions, thinking that it might make more sense now that I have more experience, but no, it didn't.  Practiced rewriting the basic fetch request function as async/await, then async with a try/catch.  Did quite a few Codewars problems and coded along with the office hours.
 
 **Thoughts:** This all probably wasn't a very effective use of my time.  I shouldn't beat myself up over it, but I should make a better plan for tomorrow.
+
+
+
+### Day 38: June 7, 2022
+
+**Today's Progress:** Got through most of the fullstackopen Node.js information, though I only had enough time to complete the first exercise.  (They all look extremely easy, however.)
+
+**Thoughts:** I had hoped to get a lot more done today (as with most days), but it didn't happen.  The FSO took a lot longer to get through, but I did take a lot of notes which slowed me down considerably.  I have to make more of an effort to get started in the morning (admittedly, I did do a lot this morning - only none of it was related to coding.)

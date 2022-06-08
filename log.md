@@ -320,3 +320,11 @@ Having promised myself I'd get off of the computer, I instead stayed up late wor
 **Today's Progress:** Got through most of the fullstackopen Node.js information, though I only had enough time to complete the first exercise.  (They all look extremely easy, however.)
 
 **Thoughts:** I had hoped to get a lot more done today (as with most days), but it didn't happen.  The FSO took a lot longer to get through, but I did take a lot of notes which slowed me down considerably.  I have to make more of an effort to get started in the morning (admittedly, I did do a lot this morning - only none of it was related to coding.)
+
+
+
+### Day 39:  June 8, 2022
+
+**Today's Progress:** Finished the FullStackOpen project.  Took a look at the next section, which goes into MongoDB integration; I'd like to have a closer look later.  Started Tuesday's VOD but didn't get far.  Had an overly long and completely unproductive meeting with Lukasz and Kirstie.
+
+**Thoughts:** Today was another unproductive day.  I am trying not to let that fact get me down.  I fear tomorrow will be more of the same; it's Thursday, which means I'll be out both morning and afternoon.

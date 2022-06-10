@@ -328,3 +328,19 @@ Having promised myself I'd get off of the computer, I instead stayed up late wor
 **Today's Progress:** Finished the FullStackOpen project.  Took a look at the next section, which goes into MongoDB integration; I'd like to have a closer look later.  Started Tuesday's VOD but didn't get far.  Had an overly long and completely unproductive meeting with Lukasz and Kirstie.
 
 **Thoughts:** Today was another unproductive day.  I am trying not to let that fact get me down.  I fear tomorrow will be more of the same; it's Thursday, which means I'll be out both morning and afternoon.
+
+
+
+### Day 40: June 9, 2022
+
+**Today's Progress:**  Got up early and wrote out some basic code for the To-Do app project that would allow the client and server to communicate.  I wasn't feeling up to hooking it up to MongoDB yet, so just relied on a non-permanent array of items, just so that we would at least have something to work with.
+
+**Thoughts:** It being Thursday, I was as busy as I had anticipated, so I didn't get much else done (aside from some Anki).  However, getting that much written in an hour did leave me feeling great.
+
+
+
+### Day 41: June 10, 2022
+
+**Today's Progress:** Coded along with Tuesday's class, set up a database to handle the To Do app and rewrote yesterday's code to take that into account (and learned about environmental variables in the process).  Returned to the simple-backend-node code, thinking that I might rewrite it using Express and write a blog post about that.  Got part of the way through it.
+
+**Thoughts:** I feel like today was reasonably productive, but after a while I could definitely feel my enthusiasm for the blog post waning.  I need to go through all of the node_app_practice files, pull out the best examples and explanations that I've got, and make a master file.  I have too many notes scattered about the place.

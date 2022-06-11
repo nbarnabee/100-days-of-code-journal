@@ -344,3 +344,16 @@ Having promised myself I'd get off of the computer, I instead stayed up late wor
 **Today's Progress:** Coded along with Tuesday's class, set up a database to handle the To Do app and rewrote yesterday's code to take that into account (and learned about environmental variables in the process).  Returned to the simple-backend-node code, thinking that I might rewrite it using Express and write a blog post about that.  Got part of the way through it.
 
 **Thoughts:** I feel like today was reasonably productive, but after a while I could definitely feel my enthusiasm for the blog post waning.  I need to go through all of the node_app_practice files, pull out the best examples and explanations that I've got, and make a master file.  I have too many notes scattered about the place.
+
+
+
+### Day 42: June 11, 2022
+
+**Today's Progress:**  Did more work with the simple-backend-node code.  Got most of the way through Thursday's VOD.  Did a line-by-line review of the code, with extensive notes, which I will probably turn into a blog post.
+
+**Thoughts:** The full conversion of simple-backend-node was tricker than I'd anticipated and I was not entirely happy with the results.  It took me a rather long time, and I came away feeling that I'd sunk way more time into it than was reasonable.  I need to learn when to step back from a project that's not going anywhere; there were a hundred more useful things I could have been doing with that time.
+
+Wasn't quite able to finish Thursday's VOD, though I am mostly done.  I would like to make another blog post, and since the simple-backend conversion has been such a disappointment, and I took so many notes covering the CRUD app, I think I'll just post about that.  
+
+Also helped a couple of people on the Discord server, which felt good.
+

@@ -357,3 +357,10 @@ Wasn't quite able to finish Thursday's VOD, though I am mostly done.  I would li
 
 Also helped a couple of people on the Discord server, which felt good.
 
+
+
+### Day 43: June 12, 2022
+
+**Today's Progress:** Finally finished the VOD and am officially caught up with classes.  I need to flesh out some of my notes and then I'll be able to make another blog post; hope to get that done tomorrow.  (Trying to post on a Monday would make sense; I know regularity is important.)  Went down a bit of a rabbit hole in terms of trying to rework the .put and .delete methods, or at least how they were initialized client-side.  Ultimately it went nowhere.  Did some Codewars, poked at my Anki deck (but not to the degree I should have), and worked a bit on the first PassportJS tutorial.
+
+**Thoughts:** I understand hardly anything of the workings of Passport.  I can get the gist, though, so I should probably just take what Leon always say to heart and remind myself that I don't really need to understand exactly what's happening under the hood.  Not at this stage in my career, at least.  I need to have a hard think about what I want to get done in the next two weeks.

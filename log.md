@@ -364,3 +364,11 @@ Also helped a couple of people on the Discord server, which felt good.
 **Today's Progress:** Finally finished the VOD and am officially caught up with classes.  I need to flesh out some of my notes and then I'll be able to make another blog post; hope to get that done tomorrow.  (Trying to post on a Monday would make sense; I know regularity is important.)  Went down a bit of a rabbit hole in terms of trying to rework the .put and .delete methods, or at least how they were initialized client-side.  Ultimately it went nowhere.  Did some Codewars, poked at my Anki deck (but not to the degree I should have), and worked a bit on the first PassportJS tutorial.
 
 **Thoughts:** I understand hardly anything of the workings of Passport.  I can get the gist, though, so I should probably just take what Leon always say to heart and remind myself that I don't really need to understand exactly what's happening under the hood.  Not at this stage in my career, at least.  I need to have a hard think about what I want to get done in the next two weeks.
+
+
+
+### Day 44: June 13, 2022
+
+**Today's Progress:** Did not feel like I really made headway with anything, unfortunately.  German + errands took up most of the morning, leaving me a little time to work on the blog post, which is spiraling out of hand.  I ran into some irritating bugs and, although I fixed them in the end, was so annoyed and frustrated that I didn't really get back to the project.  Did some Codewars and Anki after dinner.
+
+**Thoughts:** On the one hand, I hate starting something and not finishing it.  On the other hand, this blog post is turning into a bloated nightmare that's rapidly getting out of my control.  I've spent days on this, days that I could have spent on something useful.  The posts are nice, but they aren't going to be what gets me a job in the end.  Time to cut my losses; going forward I need to be much, much stricter about the amount of time I spend working on these side projects.

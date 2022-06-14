@@ -372,3 +372,11 @@ Also helped a couple of people on the Discord server, which felt good.
 **Today's Progress:** Did not feel like I really made headway with anything, unfortunately.  German + errands took up most of the morning, leaving me a little time to work on the blog post, which is spiraling out of hand.  I ran into some irritating bugs and, although I fixed them in the end, was so annoyed and frustrated that I didn't really get back to the project.  Did some Codewars and Anki after dinner.
 
 **Thoughts:** On the one hand, I hate starting something and not finishing it.  On the other hand, this blog post is turning into a bloated nightmare that's rapidly getting out of my control.  I've spent days on this, days that I could have spent on something useful.  The posts are nice, but they aren't going to be what gets me a job in the end.  Time to cut my losses; going forward I need to be much, much stricter about the amount of time I spend working on these side projects.
+
+
+
+### Day 45: June 14, 2022
+
+**Today's Progress:** Worked my way through the first Passport.js tutorial.  Did several Codewars and more Anki than usual, tried once again to implement a "no client-side JS" thing on my boardgame site, and once again failed.  Went to the Laravel talk and marvelled at a starter kit that delivered API keys straight out of the box.
+
+**Thoughts:** Honestly having a bit of a downward swing to my mood lately.  With the downturn in the market, people on Twitter crowing about the bright future of No Code tools, fellow #100Devs posting their cool projects, and a bunch of people on the Discord channel talking about recruiters reaching out to them, etc. etc., I'm starting to feel hopelessness creeping back in.  I hope I can get things up and running with Passport tomorrow.  I need a success right now.

@@ -380,3 +380,11 @@ Also helped a couple of people on the Discord server, which felt good.
 **Today's Progress:** Worked my way through the first Passport.js tutorial.  Did several Codewars and more Anki than usual, tried once again to implement a "no client-side JS" thing on my boardgame site, and once again failed.  Went to the Laravel talk and marvelled at a starter kit that delivered API keys straight out of the box.
 
 **Thoughts:** Honestly having a bit of a downward swing to my mood lately.  With the downturn in the market, people on Twitter crowing about the bright future of No Code tools, fellow #100Devs posting their cool projects, and a bunch of people on the Discord channel talking about recruiters reaching out to them, etc. etc., I'm starting to feel hopelessness creeping back in.  I hope I can get things up and running with Passport tomorrow.  I need a success right now.
+
+
+
+### Day 46: June 15, 2022
+
+**Today's Progress:** Another discouraging day.  Watched one of the videos from the previous cohort about user authentication, and while I do feel that I came away understanding a bit more, I had mixed feelings about Leon's approach.  I don't really want to tie anything to a Microsoft login (and I couldn't for the life of me figure out how to get an Azure client key).  Tried to start a new project but it quickly became apparent that what I was trying to do was going to be VASTLY more difficult than it appeared.
+
+**Thoughts:** Spent a lot of time at the computer today with nothing to show for it.  Feeling very discouraged.  I am probably going about the projects the wrong way; I want to build some show-stopper project straight out of the gate, but the reality is that I don't have the knowledge or the capacity for that.  I need to set my sights on something smaller to start with.

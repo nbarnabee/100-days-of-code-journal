@@ -388,3 +388,19 @@ Also helped a couple of people on the Discord server, which felt good.
 **Today's Progress:** Another discouraging day.  Watched one of the videos from the previous cohort about user authentication, and while I do feel that I came away understanding a bit more, I had mixed feelings about Leon's approach.  I don't really want to tie anything to a Microsoft login (and I couldn't for the life of me figure out how to get an Azure client key).  Tried to start a new project but it quickly became apparent that what I was trying to do was going to be VASTLY more difficult than it appeared.
 
 **Thoughts:** Spent a lot of time at the computer today with nothing to show for it.  Feeling very discouraged.  I am probably going about the projects the wrong way; I want to build some show-stopper project straight out of the gate, but the reality is that I don't have the knowledge or the capacity for that.  I need to set my sights on something smaller to start with.
+
+
+
+### Day 47: June 16, 2022
+
+**Today's Progress:** I stepped away from the user authentication and instead worked on my Boardgame Library app.  One of the problems I'd had yesterday was being unable to figure out how to handle a fetch on the server side:  a fetch prompted by a client-side POST request, so effectively I ended up with a promise inside of a promise.  I did solve the problem (I was probably overthinking it), but didn't do much else aside from some Codewars and ANKI.
+
+**Thoughts:** Baby steps.
+
+
+
+### Day 48: June 17, 2022
+
+**Today's Progress:** Since I'm working the bar tonight, I decided that I *really* wanted to have some part of my drinks app finished so I could test it out a bit.  Spent the day working on concatenating promises and filtering the resulting arrays.  Ultimately succeeded; the next step will be building out the larger recipe card.  I had already done most of the heavy lifting on that, so in theory it shouldn't be too difficult.
+
+**Thoughts:** As ever, it feels like it takes me far too long to do things.  I am sure it will improve in time, and I don't do myself any favors with my line of thinking.  "This would be so simple for an experienced programmer..."  well, yes, but I'm not an experienced programmer, now am I?  So why on earth would I hold myself to that standard?

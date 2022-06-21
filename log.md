@@ -404,3 +404,11 @@ Also helped a couple of people on the Discord server, which felt good.
 **Today's Progress:** Since I'm working the bar tonight, I decided that I *really* wanted to have some part of my drinks app finished so I could test it out a bit.  Spent the day working on concatenating promises and filtering the resulting arrays.  Ultimately succeeded; the next step will be building out the larger recipe card.  I had already done most of the heavy lifting on that, so in theory it shouldn't be too difficult.
 
 **Thoughts:** As ever, it feels like it takes me far too long to do things.  I am sure it will improve in time, and I don't do myself any favors with my line of thinking.  "This would be so simple for an experienced programmer..."  well, yes, but I'm not an experienced programmer, now am I?  So why on earth would I hold myself to that standard?
+
+
+
+### Day 49: June 21, 2022
+
+**Today's Progress:** Got once again caught up in a particular project, in this case the Drinks Cabinet.  I fleshed out the functions, added objects, sorted the recipe card modal, and in general made a whole host of improvements.  The basic functionality is now there; I just need to add the rest of the search options (and decide what I'm going to do about the inconsistent ones), and style the thing.
+
+**Thoughts:** I'm really pleased with what I got done today.  I'm trying not to dwell on how long it took me to do it.  An experienced developer could have done it in a fraction of the time, sure, but I'm not an experienced developer so I don't know why I feel compelled to hold myself to that standard.

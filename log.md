@@ -412,3 +412,11 @@ Also helped a couple of people on the Discord server, which felt good.
 **Today's Progress:** Got once again caught up in a particular project, in this case the Drinks Cabinet.  I fleshed out the functions, added objects, sorted the recipe card modal, and in general made a whole host of improvements.  The basic functionality is now there; I just need to add the rest of the search options (and decide what I'm going to do about the inconsistent ones), and style the thing.
 
 **Thoughts:** I'm really pleased with what I got done today.  I'm trying not to dwell on how long it took me to do it.  An experienced developer could have done it in a fraction of the time, sure, but I'm not an experienced developer so I don't know why I feel compelled to hold myself to that standard.
+
+
+
+### Day 50: June 24, 2022
+
+**Today's Progress:** Looked over ShesWithUs and realized what a horrible job I'd done.  Made a list of things that needed fixing.  Worked a little on the Drinks Cabinet.  Making an autofill search list, with the option to add additional search bars, is the obvious solution to the "way too many search options" problem.
+
+**Thoughts:** Getting ShesWithUs portfolio-ready is going to be more work than I'd anticipated, but I think it will still be worthwhile, as it's an experience that looks good and that I would be happy to talk about.  Still, it's not quite the "easy win" that I'd been hoping for!  (Yet it is somewhat gratifying to see how far I've come in two and a half months.)

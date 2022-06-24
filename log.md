@@ -419,4 +419,4 @@ Also helped a couple of people on the Discord server, which felt good.
 
 **Today's Progress:** Looked over ShesWithUs and realized what a horrible job I'd done.  Made a list of things that needed fixing.  Worked a little on the Drinks Cabinet.  Making an autofill search list, with the option to add additional search bars, is the obvious solution to the "way too many search options" problem.
 
-**Thoughts:** Getting ShesWithUs portfolio-ready is going to be more work than I'd anticipated, but I think it will still be worthwhile, as it's an experience that looks good and that I would be happy to talk about.  Still, it's not quite the "easy win" that I'd been hoping for!  (Yet it is somewhat gratifying to see how far I've come in two and a half months.)
+**Thoughts:** Getting ShesWithUs portfolio-ready is going to be more work than I'd anticipated, but I think it will still be worthwhile, as it's an experience that looks good and that I would be happy to talk about.  Still, it's not quite the "easy win" that I'd been hoping for!  (Yet it is somewhat gratifying to see how far I've come since the start of April.)

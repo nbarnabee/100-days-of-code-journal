@@ -479,3 +479,13 @@ Also helped a couple of people on the Discord server, which felt good.
 **Today's Progress:** Continued working with the FCC course, though I got completely stuck with Mongoose.  Did a CRUD template review with some other members of the EU study group.
 
 **Thoughts:** The FCC course continues to frustrate.  Part of my problem is that I don't really understand what's going on "under the hood" and am perhaps, as I told Kirstie, trying to control too much when I really should sit back and "let Mongoose take the wheel."  I was very pleased with my performance at the CRUD review, though; getting started, doing all the installation and connecting the pieces was a breeze, and the struggles I'd had with Heroku did enable me to instruct everyone else on how to manage deployment from GitHub.  Also answered questions and generally felt like I really did know what I was doing, which made for a nice change.
+
+
+
+### Day 58: July 6, 2022
+
+**Today's Progress:** Continued chipping away at the FCC course.  Managed to get through the Mongoose section and am onto the project parts.
+
+**Thoughts:** I had the strong sensation that I was missing something while doing the Mongoose problems.  Once I saw the sample code and figured out the pattern, the remaining problems were easy enough to "solve," but I wouldn't've have been able to solve them on my own.  Frustrating.  Though how FCC presents the code really makes me wonder just how long ago this course was written; it seems to be crying out for an update.  Noticed that MDN has some tutorials on Express that incorporate Mongoose, so will have a look at them, and at the video Kirstie recommended, tomorrow.  FCC's approach was so weird that I honestly don't feel that I've learned much of anything.  The Mongoose functions were completely removed from the server-side code, and while in an architectural sense that's probably best practice, it makes it hard for me to understand what's happening.
+
+(As an aside, editing this file is getting more and more painful.  I think I may have to split it off to a "Part 2" pretty soon.)

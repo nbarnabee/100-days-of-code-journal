@@ -420,3 +420,62 @@ Also helped a couple of people on the Discord server, which felt good.
 **Today's Progress:** Looked over ShesWithUs and realized what a horrible job I'd done.  Made a list of things that needed fixing.  Worked a little on the Drinks Cabinet.  Making an autofill search list, with the option to add additional search bars, is the obvious solution to the "way too many search options" problem.
 
 **Thoughts:** Getting ShesWithUs portfolio-ready is going to be more work than I'd anticipated, but I think it will still be worthwhile, as it's an experience that looks good and that I would be happy to talk about.  Still, it's not quite the "easy win" that I'd been hoping for!  (Yet it is somewhat gratifying to see how far I've come since the start of April.)
+
+
+
+### Day 51: June 27, 2022 
+
+**Today's Progress:** Worked on Raymond's website.  Got the general layout down and built out the hero and "about" sections.  
+
+**Thoughts:**  It felt good to finally have something to show Raymond.  (About time, too!)  I drew on a lot of what I'd written for my portfolio; at some point I will have to go back and organize my code snippets a little better, though.
+
+
+
+
+### Day 52: June 28, 2022
+
+**Today's Progress:** Did more work on Raymond's site and finished with a more-or-less complete homepage (though the styling of some sections is still a little off, it needs completed copy, and I haven't yet sorted out the carousel).  Fiddled with the Drinks Cabinet.  I needed a list to populate the autofill menu, and ended up deciding to make a list-making app.
+
+**Thoughts:** I'm happy to have something to show Raymond, and somewhat less happy that I let myself wander off on a tangent with the list-making app.  On the bright side, the ease with which I coded it reassures me that I do know what I'm doing, at least to some degree.
+
+
+
+
+### Day 53: June 29, 2022
+
+**Today's Progress:** Continued to build out the list-maker.  Added most of the functionality that I wanted, though the way that I had put it together was a bit ropey.  I built it using localStorage, which was useful in that I'd largely forgotten how to use localStorage.  This was a good opportunity to relearn.  I also got to play with JSON.parse() and .stringify()
+
+**Thoughts:**  Pleased with how the list-maker turned out, and I feel like I have a pretty solid little idea that I can then convert into something using a database and CRUD functions.
+
+
+
+
+### Day 54: June 30
+
+**Today's Progress:** Returned to working on Raymond's site, in anticipation of seeing him this morning.  I wanted to have a working carousel, and finally broke down and started investigating SwiperJS.  Although the initial implementation gave me some hassles, eventually I got it working.
+
+**Thoughts:**  As much as I hate not building things myself, using a module did make it much easier.  I'm not terribly happy with the appearance of a lot of the pieces, though, and will need to do some more tweaking.  The trouble with not knowing what you're doing is that tweaking the bits becomes vastly more difficult, but that has always been my problem with templates and modules and such:  if you don't know, they're hard to work with.  If you do know, why would you need to work with them in the first place?  (I suppose that if I did know, they'd still save me time, as I could drop something in and tweak it quickly.)
+
+
+
+### Day 55: July 1, 2022
+
+**Today's Progress:**  While attempting to use my list-maker for its stated purpose, I discovered that the "improvement" that I had made (attaching an edit function to each individual list rather than having one where you selected the list and then edited it), actually broke the editing.  Trying to fix the problem turned into a cycle where every fix introduced a new problem.  The real fault lay with how I'd built the thing in the first place.  The fault lay with the underlying architecture; I was just slapping paint onto the walls while the foundation was crumbling.
+
+**Thoughts:**  The best way to improve the app would be to rewrite it in an OOP style.  Being so deep into it, it was hard to take a step back and survey the real problem.  Also, converting it to something that connects with a database would solve a lot of problems; trying to constantly update and deal with localStorage data is a real PITA.
+
+
+
+### Day 56: July 4, 2022
+
+**Today's Progress:** I wanted to learn about Mongoose, so got started with FCC's Backend Development/APIs course.  A lot of it seems outdated and getting started with it was frustrating, but I do feel that I learned something; I have a much better understanding of what's going on with middleware, at the least.
+
+**Thoughts:**  Not sure if the struggles I ran into were due to poor explanations or my own ignorance.  There were definitely moments where I felt like there must be some supplementary material somewhere that I had missed; probably one was expected to have gone through FCC's JS course before jumping into this.  Although the problems I encountered were with regards to installing modules and such (many of which were outdated or depreciated; I am halfway tempted to offer up my services in rewriting some of this course, or at least offering suggestions -- contributing to a FCC course would be quite a feather in my cap, no?)
+
+
+
+### Day 57: July 5, 2022
+
+**Today's Progress:** Continued working with the FCC course, though I got completely stuck with Mongoose.  Did a CRUD template review with some other members of the EU study group.
+
+**Thoughts:** The FCC course continues to frustrate.  Part of my problem is that I don't really understand what's going on "under the hood" and am perhaps, as I told Kirstie, trying to control too much when I really should sit back and "let Mongoose take the wheel."  I was very pleased with my performance at the CRUD review, though; getting started, doing all the installation and connecting the pieces was a breeze, and the struggles I'd had with Heroku did enable me to instruct everyone else on how to manage deployment from GitHub.  Also answered questions and generally felt like I really did know what I was doing, which made for a nice change.

@@ -489,3 +489,11 @@ Also helped a couple of people on the Discord server, which felt good.
 **Thoughts:** I had the strong sensation that I was missing something while doing the Mongoose problems.  Once I saw the sample code and figured out the pattern, the remaining problems were easy enough to "solve," but I wouldn't've have been able to solve them on my own.  Frustrating.  Though how FCC presents the code really makes me wonder just how long ago this course was written; it seems to be crying out for an update.  Noticed that MDN has some tutorials on Express that incorporate Mongoose, so will have a look at them, and at the video Kirstie recommended, tomorrow.  FCC's approach was so weird that I honestly don't feel that I've learned much of anything.  The Mongoose functions were completely removed from the server-side code, and while in an architectural sense that's probably best practice, it makes it hard for me to understand what's happening.
 
 (As an aside, editing this file is getting more and more painful.  I think I may have to split it off to a "Part 2" pretty soon.)
+
+
+
+### Day 59: July 7, 2022
+
+**Today's Progress:** Shifted away from the FCC course and started watching the Mongo/Mongoose video tutorial.  Learned more about how one could utilize EJS templates and used Bootstrap for the first time ever.
+
+**Thoughts:** I had always been reluctant to get started with Bootstrap, but I have to admit that the results looked good and it was actually much easier to implement than I'd expected.  There's just something about the spacing and sizing that I can't quite match, something about the scale, I suppose, that makes everything appear polished.
